@@ -1,21 +1,21 @@
 # Additional packages
 PRODUCT_PACKAGES += \
 	Development \
-	LatinIME \
-	VideoEditor \
-	VoiceDialer \
-	SoundRecorder \
-	Basic
+	LatinIME 
+#	VideoEditor
+#	VoiceDialer
+#	SoundRecorder
+#	Basic
 
 # Additional apps
 PRODUCT_PACKAGES += \
-	Apollo \
-	DashClock \
-	DSPManager \
 	libcyanogen-dsp \
 	audio_effects.conf \
-	MonthCalendarWidget \
-	OpenDelta
+	MonthCalendarWidget 
+#	OpenDelta
+#	Apollo
+#	DashClock
+#	DSPManager
 
 PRODUCT_PACKAGES += \
 	CellBroadcastReceiver
